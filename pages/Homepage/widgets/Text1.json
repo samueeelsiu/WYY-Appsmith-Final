@@ -2,6 +2,7 @@
     "needsErrorInfo": false,
     "mobileBottomRow": 10,
     "widgetName": "Text1",
+    "dynamicPropertyPathList": [{"key": "textColor"}],
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -9,8 +10,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 11,
-    "bottomRow": 24,
+    "topRow": 12,
+    "bottomRow": 25,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +21,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 20.234375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 19,
+    "leftColumn": 14,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,8 +32,8 @@
     "text": "WOW-YIN-YANG HOME PAGE ",
     "key": "w0dhmi79zg",
     "isDeprecated": false,
-    "rightColumn": 45,
-    "textAlign": "LEFT",
+    "rightColumn": 50,
+    "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "wkphrip24t",
     "minWidth": 450,
@@ -49,11 +50,11 @@
     "isLoading": false,
     "mobileTopRow": 6,
     "responsiveBehavior": "fill",
-    "originalTopRow": 11,
+    "originalTopRow": 12,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 22,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 18,
+    "originalBottomRow": 25,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }
