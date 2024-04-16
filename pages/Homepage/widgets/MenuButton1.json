@@ -26,7 +26,8 @@
         {"key": "menuItems.menuItemwbjjlzvpze.onClick"},
         {"key": "menuItems.menuItem81drukegpg.onClick"},
         {"key": "menuItems.menuItem2t9sbfgwam.onClick"},
-        {"key": "menuItems.menuItemz0el9t7xby.onClick"}
+        {"key": "menuItems.menuItemz0el9t7xby.onClick"},
+        {"key": "menuItems.menuItem38wt1uu1j4.onClick"}
     ],
     "leftColumn": 23,
     "dynamicBindingPathList": [
@@ -50,39 +51,12 @@
             "isDisabled": false,
             "isVisible": true
         },
-        "menuItem2t9sbfgwam": {
-            "onClick": "{{navigateTo('Episode_Comments', {}, 'SAME_WINDOW');}}",
-            "widgetId": "ixjbqdfzm4",
-            "index": 10,
-            "id": "menuItem2t9sbfgwam",
-            "label": "Podcaster Episodes comment",
-            "isDisabled": false,
-            "isVisible": true
-        },
         "menuItem4fiumiqbdv": {
             "onClick": "{{navigateTo('Commentator review', {}, 'SAME_WINDOW');}}",
             "widgetId": "rfmqh0i6au",
             "index": 7,
             "id": "menuItem4fiumiqbdv",
             "label": "Commentator search review",
-            "isDisabled": false,
-            "isVisible": true
-        },
-        "menuItem1": {
-            "onClick": "{{navigateTo('Listener', {}, 'SAME_WINDOW');}}",
-            "widgetId": "",
-            "index": 0,
-            "label": "Listener page",
-            "id": "menuItem1",
-            "isVisible": true,
-            "isDisabled": false
-        },
-        "menuIteme2uh7o8fpk": {
-            "onClick": "{{navigateTo('Commentator rating', {}, 'SAME_WINDOW');}}",
-            "widgetId": "3jbjtyue81",
-            "index": 6,
-            "id": "menuIteme2uh7o8fpk",
-            "label": "Commentator rating",
             "isDisabled": false,
             "isVisible": true
         },
@@ -113,21 +87,57 @@
             "isDisabled": false,
             "isVisible": true
         },
-        "menuItemz0el9t7xby": {
-            "onClick": "{{navigateTo('Analytics', {}, 'SAME_WINDOW');}}",
-            "widgetId": "pd2oownymm",
-            "index": 11,
-            "id": "menuItemz0el9t7xby",
-            "label": "Podcaster Analytics",
-            "isDisabled": false,
-            "isVisible": true
-        },
         "menuItem9342ban6jd": {
             "onClick": "{{navigateTo('Get Album', {}, 'SAME_WINDOW');}}",
             "widgetId": "gxr369g5mg",
             "index": 5,
             "id": "menuItem9342ban6jd",
             "label": "Artist albums",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem2t9sbfgwam": {
+            "onClick": "{{navigateTo('Episode_Comments', {}, 'SAME_WINDOW');}}",
+            "widgetId": "ixjbqdfzm4",
+            "index": 10,
+            "id": "menuItem2t9sbfgwam",
+            "label": "Podcaster Episodes comment",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem1": {
+            "onClick": "{{navigateTo('Listener', {}, 'SAME_WINDOW');}}",
+            "widgetId": "",
+            "index": 0,
+            "label": "Listener page",
+            "id": "menuItem1",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuIteme2uh7o8fpk": {
+            "onClick": "{{navigateTo('Commentator rating', {}, 'SAME_WINDOW');}}",
+            "widgetId": "3jbjtyue81",
+            "index": 6,
+            "id": "menuIteme2uh7o8fpk",
+            "label": "Commentator rating",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem38wt1uu1j4": {
+            "onClick": "{{navigateTo('Upload', {}, 'SAME_WINDOW');}}",
+            "widgetId": "de0hpmurlx",
+            "index": 12,
+            "id": "menuItem38wt1uu1j4",
+            "label": "Upload Song and Album",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItemz0el9t7xby": {
+            "onClick": "{{navigateTo('Analytics', {}, 'SAME_WINDOW');}}",
+            "widgetId": "pd2oownymm",
+            "index": 11,
+            "id": "menuItemz0el9t7xby",
+            "label": "Podcaster Analytics",
             "isDisabled": false,
             "isVisible": true
         },
