@@ -2,7 +2,7 @@
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "borderColor": "#E0DEDE",
     "iconSVG": "/static/media/icon.46adf7030d667f0ad9002aa31f997573.svg",
-    "onSubmit": "{{new_rateCopy.run().then(() => {\n  get_allCopy.run();\n});}}",
+    "onSubmit": "{{new_rate_pod.run().then(() => {\n  get_all_pod.run();\n});}}",
     "topRow": 56,
     "type": "JSON_FORM_WIDGET",
     "animateLoading": true,
