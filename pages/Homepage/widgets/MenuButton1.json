@@ -1,0 +1,169 @@
+{
+    "needsErrorInfo": false,
+    "isCompact": false,
+    "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+    "mobileBottomRow": 32,
+    "widgetName": "MenuButton1",
+    "displayName": "Menu button",
+    "iconSVG": "/static/media/icon.631848e88e7a3db05f6015f22835e81b.svg",
+    "topRow": 26,
+    "bottomRow": 37,
+    "parentRowSpace": 10,
+    "type": "MENU_BUTTON_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 36,
+    "animateLoading": true,
+    "parentColumnSpace": 20.234375,
+    "dynamicTriggerPathList": [
+        {"key": "menuItems.menuItem1.onClick"},
+        {"key": "menuItems.menuItem3.onClick"},
+        {"key": "menuItems.menuItem2.onClick"},
+        {"key": "menuItems.menuItemgccjw595s6.onClick"},
+        {"key": "menuItems.menuItemxzz6ssfon1.onClick"},
+        {"key": "menuItems.menuItem9342ban6jd.onClick"},
+        {"key": "menuItems.menuIteme2uh7o8fpk.onClick"},
+        {"key": "menuItems.menuItem4fiumiqbdv.onClick"},
+        {"key": "menuItems.menuItemwbjjlzvpze.onClick"},
+        {"key": "menuItems.menuItem81drukegpg.onClick"},
+        {"key": "menuItems.menuItem2t9sbfgwam.onClick"},
+        {"key": "menuItems.menuItemz0el9t7xby.onClick"}
+    ],
+    "leftColumn": 23,
+    "dynamicBindingPathList": [
+        {"key": "menuColor"},
+        {"key": "borderRadius"}
+    ],
+    "isDisabled": false,
+    "key": "z0jv1xc7q9",
+    "isDeprecated": false,
+    "rightColumn": 39,
+    "iconName": "add-to-artifact",
+    "menuVariant": "PRIMARY",
+    "widgetId": "876u28osmg",
+    "menuItems": {
+        "menuItem81drukegpg": {
+            "onClick": "{{navigateTo('Episodes', {}, 'SAME_WINDOW');}}",
+            "widgetId": "he7x5dmj9b",
+            "index": 9,
+            "id": "menuItem81drukegpg",
+            "label": "Podcaster Episodes",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem2t9sbfgwam": {
+            "onClick": "{{navigateTo('Episode_Comments', {}, 'SAME_WINDOW');}}",
+            "widgetId": "ixjbqdfzm4",
+            "index": 10,
+            "id": "menuItem2t9sbfgwam",
+            "label": "Podcaster Episodes comment",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem4fiumiqbdv": {
+            "onClick": "{{navigateTo('Commentator review', {}, 'SAME_WINDOW');}}",
+            "widgetId": "rfmqh0i6au",
+            "index": 7,
+            "id": "menuItem4fiumiqbdv",
+            "label": "Commentator search review",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem1": {
+            "onClick": "{{navigateTo('Listener', {}, 'SAME_WINDOW');}}",
+            "widgetId": "",
+            "index": 0,
+            "label": "Listener page",
+            "id": "menuItem1",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuIteme2uh7o8fpk": {
+            "onClick": "{{navigateTo('Commentator rating', {}, 'SAME_WINDOW');}}",
+            "widgetId": "3jbjtyue81",
+            "index": 6,
+            "id": "menuIteme2uh7o8fpk",
+            "label": "Commentator rating",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem3": {
+            "onClick": "{{navigateTo('Listener_playlist', {}, 'SAME_WINDOW');}}",
+            "widgetId": "",
+            "index": 1,
+            "label": "Listener Playlists",
+            "id": "menuItem3",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuItem2": {
+            "onClick": "{{navigateTo('Listener_song_comment', {}, 'SAME_WINDOW');}}",
+            "widgetId": "",
+            "index": 2,
+            "label": "Listener songs comment",
+            "id": "menuItem2",
+            "isVisible": true,
+            "isDisabled": false
+        },
+        "menuItemxzz6ssfon1": {
+            "onClick": "{{navigateTo('Get songs', {}, 'SAME_WINDOW');}}",
+            "widgetId": "ziiyos86ow",
+            "index": 4,
+            "id": "menuItemxzz6ssfon1",
+            "label": "Artist songs",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItemz0el9t7xby": {
+            "onClick": "{{navigateTo('Analytics', {}, 'SAME_WINDOW');}}",
+            "widgetId": "pd2oownymm",
+            "index": 11,
+            "id": "menuItemz0el9t7xby",
+            "label": "Podcaster Analytics",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItem9342ban6jd": {
+            "onClick": "{{navigateTo('Get Album', {}, 'SAME_WINDOW');}}",
+            "widgetId": "gxr369g5mg",
+            "index": 5,
+            "id": "menuItem9342ban6jd",
+            "label": "Artist albums",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItemwbjjlzvpze": {
+            "onClick": "{{navigateTo('Commentator get artists', {}, 'SAME_WINDOW');}}",
+            "widgetId": "bmo2bgaq14",
+            "index": 8,
+            "id": "menuItemwbjjlzvpze",
+            "label": "Commentator get artists",
+            "isDisabled": false,
+            "isVisible": true
+        },
+        "menuItemgccjw595s6": {
+            "onClick": "{{navigateTo('Get artist', {}, 'SAME_WINDOW');}}",
+            "widgetId": "7fp4hod0v4",
+            "index": 3,
+            "id": "menuItemgccjw595s6",
+            "label": "Artist page",
+            "isDisabled": false,
+            "isVisible": true
+        }
+    },
+    "isVisible": true,
+    "label": "Open Menu",
+    "version": 1,
+    "parentId": "0",
+    "tags": ["Buttons"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 28,
+    "originalTopRow": 20,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 20,
+    "menuItemsSource": "STATIC",
+    "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+    "originalBottomRow": 31,
+    "iconAlign": "left",
+    "placement": "CENTER"
+}

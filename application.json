@@ -1,0 +1,83 @@
+{
+  "pages": [
+    {
+      "id": "Listener",
+      "isDefault": false
+    },
+    {
+      "id": "Listener_song_comment",
+      "isDefault": false
+    },
+    {
+      "id": "Listener_playlist",
+      "isDefault": false
+    },
+    {
+      "id": "Get artist",
+      "isDefault": false
+    },
+    {
+      "id": "Get songs",
+      "isDefault": false
+    },
+    {
+      "id": "Get Album",
+      "isDefault": false
+    },
+    {
+      "id": "Upload",
+      "isDefault": false
+    },
+    {
+      "id": "Commentator rating",
+      "isDefault": false
+    },
+    {
+      "id": "Commentator review",
+      "isDefault": false
+    },
+    {
+      "id": "Commentator get artists",
+      "isDefault": false
+    },
+    {
+      "id": "Episodes",
+      "isDefault": false
+    },
+    {
+      "id": "Episode_Comments",
+      "isDefault": false
+    },
+    {
+      "id": "Analytics",
+      "isDefault": false
+    },
+    {
+      "id": "Homepage",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#FBF4ED",
+  "icon": "tree",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

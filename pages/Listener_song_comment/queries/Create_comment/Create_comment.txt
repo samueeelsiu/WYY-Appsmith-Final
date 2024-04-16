@@ -1,0 +1,4 @@
+{
+	"user_id": "{{Input_id.text}}",
+	"content": "{{Input_comment.text}}"
+}
